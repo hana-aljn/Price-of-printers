@@ -1,5 +1,3 @@
-**chromewebdriver** and **selenium**
-
 # Price of Printers - Web Scraping Project
 
 This repository contains the final project for the **Web Scraping** course, focused on collecting the latest prices of printers from an online store using automated scraping techniques.
